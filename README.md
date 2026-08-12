@@ -37,7 +37,3 @@ Sem compromisso com uma stack fixa ainda — a ideia é usar esse espaço pra te
 ## 📫 Contato
 
 - E-mail: inaciofragalli@gmail.com
-
----
-
-<sub>Curioso(a) por natureza, ainda decidindo o resto · 2026</sub>
