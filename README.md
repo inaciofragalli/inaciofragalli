@@ -21,13 +21,17 @@ Sem compromisso com uma stack fixa ainda — a ideia é usar esse espaço pra te
 - Exercícios
 - Projetos - ainda por vir
 ---
-
-## 📊 Linguagens mais usadas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inaciofragalli&layout=compact&theme=default&hide_border=true" alt="Linguagens mais usadas" />
+<h3>💻 Linguagens & Tecnologias</h3>
+<p>
+ <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
 </p>
 
+<h3>🛠️ Ferramentas & IDEs</h3>
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+</p>
 ---
 
 ## 📫 Contato
