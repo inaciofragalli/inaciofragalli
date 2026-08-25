@@ -19,7 +19,7 @@ Aqui é onde ficam os projetos que faço por conta própria, fora da grade curri
 Sem compromisso com uma stack fixa ainda — a ideia é usar esse espaço pra testar coisas e ver com o que eu me identifico. Alguns projetos aqui vão ser sérios, outros só experimentos de fim de semana.
 
 - Exercícios
-- Projetos - ainda por vir
+- Projetos - web-calendar
 ---
 <div align="center">
 
