@@ -5,7 +5,8 @@
 Sem compromisso com uma stack fixa ainda — a ideia é usar esse espaço pra testar coisas e ver com o que eu me identifico. Alguns projetos aqui vão ser sérios, outros só experimentos de fim de semana.
 
 - Exercícios
-- Projetos - web-calendar
+- Projetos:
+   - teste: web-calendar
 ---
 <div align="center">
   <h3>💻 Linguagens e Tecnologias</h3>
