@@ -20,14 +20,14 @@ Sem compromisso com uma stack fixa ainda — a ideia é usar esse espaço pra te
     <img src="https://skillicons.dev/icons?i=java,spring" alt="Backend" />
   </a>
 
-  <br /><br />
+  <br />
 
   <h3>🗄️ Banco de Dados</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=postgresql,mysql,hibernate" alt="Banco de Dados" />
   </a>
 
-<br /><br />
+<br />
 
   <h3>🛠️ Ferramentas e IDEs</h3>
   <a href="https://skillicons.dev">
