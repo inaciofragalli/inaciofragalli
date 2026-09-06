@@ -6,7 +6,7 @@ Sem compromisso com uma stack fixa ainda — a ideia é usar esse espaço pra te
 
 - Exercícios
 - Projetos:
-   - teste: web-calendar
+   - Quizler
 ---
 <div align="center">
   <h3>💻 Linguagens e Tecnologias</h3>
