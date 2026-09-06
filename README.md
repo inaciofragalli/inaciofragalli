@@ -6,7 +6,7 @@ Sem compromisso com uma stack fixa ainda — a ideia é usar esse espaço pra te
 
 - Exercícios
 - Projetos:
-   - Quizler
+   - [Quizler](https://github.com/inaciofragalli/quizler)
 ---
 <div align="center">
   <h3>💻 Linguagens e Tecnologias</h3>
