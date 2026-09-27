@@ -9,7 +9,7 @@ Sem compromisso com uma stack fixa ainda — a ideia é usar esse espaço pra te
    - [Quizler](https://github.com/inaciofragalli/quizler)
 ---
 <div align="center">
-  <h3>💻 Linguagens e Tecnologias</h3>
+  <h3>💻 Tecnologias e Ferramentas</h3>
   
   <h4>🎨 Frontend</h4>
   <a href="https://skillicons.dev">
@@ -18,19 +18,25 @@ Sem compromisso com uma stack fixa ainda — a ideia é usar esse espaço pra te
   
   <h4>⚙️ Backend</h4>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring" alt="Backend" />
+    <img src="https://skillicons.dev/icons?i=java,spring,hibernate" alt="Backend" />
   </a>
 
   <br />
 
   <h3>🗄️ Banco de Dados</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgresql,mysql,hibernate" alt="Banco de Dados" />
+    <img src="https://skillicons.dev/icons?i=postgresql,mysql" alt="Banco de Dados" />
   </a>
 
 <br />
 
-  <h3>🛠️ Ferramentas e IDEs</h3>
+  <h3>☁️ DevOps e Infraestrutura</h3>
+  <a href="https>//skillicons.dev">
+     <img src="https://skillicons.dev/icons?i=docker" alt="DevOps e Infraestrutura" />
+
+<br />
+
+  <h3>🛠️ Ferramentas e Ambiente</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,gradle,maven,idea,vscode,linux" alt="Ferramentas" />
   </a>
