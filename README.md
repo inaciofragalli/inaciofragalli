@@ -32,7 +32,7 @@ Sem compromisso com uma stack fixa ainda — a ideia é usar esse espaço pra te
 
   <h3>☁️ DevOps e Infraestrutura</h3>
   <a href="https>//skillicons.dev">
-     <img src="https://skillicons.dev/icons?i=docker" alt="DevOps e Infraestrutura" />
+     <img src="https://skillicons.dev/icons?i=docker,githubactions" alt="DevOps e Infraestrutura" />
 
 <br />
 
