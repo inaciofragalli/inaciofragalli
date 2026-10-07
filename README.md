@@ -13,7 +13,7 @@ Sem compromisso com uma stack fixa ainda — a ideia é usar esse espaço pra te
   
   <h4>🎨 Frontend</h4>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react" alt="Frontend" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react" alt="Frontend" />
   </a>
   
   <h4>⚙️ Backend</h4>
