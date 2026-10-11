@@ -7,6 +7,7 @@ Sem compromisso com uma stack fixa ainda — a ideia é usar esse espaço pra te
 - Exercícios
 - Projetos:
    - [Quizler](https://github.com/inaciofragalli/quizler)
+   - **Em desenvolvimento:** [Rivet](https://github.com/inaciofragalli/rivet)
 ---
 <div align="center">
   <h3>💻 Tecnologias e Ferramentas</h3>
