@@ -84,4 +84,5 @@
 
 ### 📫 Contato
 
-📧 [inaciofragalli@gmail.com](mailto:inaciofragalli@gmail.com)
+- 📧 **E-mail:** [inaciofragalli@gmail.com](mailto:inaciofragalli@gmail.com)
+- 💼 **LinkedIn:** [inacio-fragalli-de-farias](https://www.linkedin.com/in/inacio-fragalli-de-farias/)
