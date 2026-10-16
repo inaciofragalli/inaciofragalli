@@ -11,13 +11,14 @@
   <a href="https://github.com/inaciofragalli/rivet">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=inaciofragalli&repo=rivet&theme=github_dark" alt="Rivet"/>
   </a>
-  <!-- <a href="https://github.com/inaciofragalli/quizler">
+
+  <a href="https://github.com/inaciofragalli/orin">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=inaciofragalli&repo=orin&theme=github_dark" alt="Orin"/>
-  </a> -->
+  </a>
 </p>
 
 - **[Rivet](https://github.com/inaciofragalli/rivet)** — Plataforma self-hosted para gerenciamento e deploy de aplicações. Em desenvolvimento.
-- **Orin** — Aplicativo em desenvolvimento para usar um celular Android como microfone sem fio.
+- **[Orin](https://github.com/inaciofragalli/orin)** — Aplicativo em desenvolvimento para usar um celular Android como microfone sem fio.
 - **[Quizler](https://github.com/inaciofragalli/quizler)** — Aplicação de quizzes com Spring Boot, React e autenticação JWT.
 
 ### 🛠️ Tecnologias e ferramentas
